@@ -1,0 +1,2 @@
+# Appliances_energy_prediction_linear_regression
+prediction of appliances energy
